@@ -20,6 +20,7 @@ if __name__ == '__main__':
 Adding this to do later
 
     numbers()
+    w;oeifja;wodij;oij;oi
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("bye")
